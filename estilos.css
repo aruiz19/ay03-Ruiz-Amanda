@@ -1,0 +1,45 @@
+#cabecera{
+    background:slategray;
+    font-size: 20px;
+    color: skyblue;
+}
+
+.destacado{
+    font-size: 50px;
+    color:skyblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.parrafo{
+    font-size: 20px;
+    color:skyblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: slategray;
+}
+
+.texto{
+    font-size: 20px;
+    color:skyblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: slategray;
+    position:absolute;
+    left:200px;
+}
+
+#img{
+    float: right;
+    size: 300px;
+    background: slategray;
+}
+
+.div{
+    background: slategray;
+    padding-left: 25px 50px 75px;
+    color:skyblue;
+}
+
+#foto{
+    float: right;
+    size: 50px;
+    background: slategray;
+}
